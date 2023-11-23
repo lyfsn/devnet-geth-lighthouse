@@ -19,7 +19,7 @@
   --authrpc.addr=127.0.0.1 \
   --authrpc.vhosts=* \
   --authrpc.jwtsecret=./el-cl-genesis-data/jwt/jwtsecret \
-  --syncmode=full \
+  --syncmode=archive \
   --rpc.allow-unprotected-txs \
   --metrics \
   --metrics.addr=0.0.0.0 \
